@@ -1,2 +1,2 @@
 # Day-3
-This Python file about Assigment operator 
+This Python file is about Assigment operator 
